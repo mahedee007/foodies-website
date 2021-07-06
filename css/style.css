@@ -101,6 +101,9 @@ p{
 footer{
     background-color: black;
     text-align: center;
+    
+    margin: auto 30px;
+    border-top-left-radius: 50px ;
 }
 .footer-logo{
     color: white;
